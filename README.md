@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelfattah Khalid</h1>
 <h3 align="center">A passionate mobile application developer(Flutter and Android)</h3>
-<img algin="right" alt="coding" width=400 src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+<img algin="left" alt="coding" width=400 src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelfattah115&label=Profile%20views&color=0e75b6&style=flat" alt="abdelfattah115" /> </p>
 
