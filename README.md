@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelfattah Khalid</h1>
 <h3 align="center">A passionate mobile application developer(Flutter and Android)</h3>
-<img algin="right" alt="coding" width="400" src="https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47b0zjwq2l35xa195pe8d1qw6nin9whz06odu0udsm&rid=giphy.gif&ct=g">
+<img algin="right" alt="coding" width="400" src="[https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47b0zjwq2l35xa195pe8d1qw6nin9whz06odu0udsm&rid=giphy.gif&ct=g](https://media2.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=790b7611b3626aad0881f760450821f6227f9127b20ffb99&rid=giphy.gif&ct=g)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelfattah115&label=Profile%20views&color=0e75b6&style=flat" alt="abdelfattah115" /> </p>
 
@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelfattah115&show_icons=true&locale=en" alt="abdelfattah115" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelfattah115&" alt="abdelfattah115" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelfattah115&" alt="abdelfattah115" /></p>
